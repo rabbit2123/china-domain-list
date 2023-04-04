@@ -1,2 +1,2 @@
-# china-domain-list
-在中国使用了cdn的网站域名列表。
+# china domain list
+这个列表包含国内使用cdn的知名网站。
