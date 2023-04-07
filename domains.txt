@@ -10,3 +10,17 @@ jd.com
 jdpay.com
 300hu.com
 
+=== 腾讯
+qq.com
+gtimg.com
+gtimg.cn
+qqmail.com
+tencent-cloud.net
+qpic.cn
+tencent.com
+myqcloud.com
+qcloudimg.com
+tencent-cloud.cn
+tencent-cloud.com
+tencentcs.cn
+tencentcs.com
