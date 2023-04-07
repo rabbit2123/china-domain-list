@@ -3,3 +3,16 @@
 [/360buyimg.com/]180.76.76.76
 [/jdpay.com/]180.76.76.76
 [/300hu.com/]180.76.76.76
+[/qq.com/]180.76.76.76
+[/gtimg.com/]180.76.76.76
+[/gtimg.cn/]180.76.76.76
+[/qqmail.com/]180.76.76.76
+[/tencent-cloud.net/]180.76.76.76
+[/qpic.cn/]180.76.76.76
+[/tencent.com/]180.76.76.76
+[/myqcloud.com/]180.76.76.76
+[/qcloudimg.com/]180.76.76.76
+[/tencent-cloud.cn/]180.76.76.76
+[/tencent-cloud.com/]180.76.76.76
+[/tencentcs.cn/]180.76.76.76
+[/tencentcs.com/]180.76.76.76
