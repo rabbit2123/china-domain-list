@@ -36,3 +36,7 @@ alipayobjects.com
 fliggy.com
 alitrip.com
 tbcdn.cn
+
+=== 豆瓣
+douban.com
+doubanio.com
