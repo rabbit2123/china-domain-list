@@ -26,3 +26,5 @@
 [/fliggy.com/]180.76.76.76
 [/alitrip.com/]180.76.76.76
 [/tbcdn.cn/]180.76.76.76
+[/douban.com/]180.76.76.76
+[/doubanio.com/]180.76.76.76
