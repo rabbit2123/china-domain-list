@@ -32,3 +32,6 @@
 [/bcebos.com/]180.76.76.76
 [/bdstatic.com/]180.76.76.76
 [/bdimg.com/]180.76.76.76
+[/bilibili.com/]180.76.76.76
+[/hdslb.com/]180.76.76.76
+[/bilivideo.com/]180.76.76.76
