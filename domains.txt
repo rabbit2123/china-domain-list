@@ -24,3 +24,15 @@ tencent-cloud.cn
 tencent-cloud.com
 tencentcs.cn
 tencentcs.com
+
+=== 阿里巴巴
+taobao.com
+alicdn.com
+tmall.com
+aliyun.com
+alibaba.com
+alipay.com
+alipayobjects.com
+fliggy.com
+alitrip.com
+tbcdn.cn
