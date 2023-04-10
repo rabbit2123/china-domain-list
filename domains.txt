@@ -40,3 +40,9 @@ tbcdn.cn
 === 豆瓣
 douban.com
 doubanio.com
+
+=== 百度
+baidu.com
+bcebos.com
+bdstatic.com
+bdimg.com
