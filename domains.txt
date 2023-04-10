@@ -46,3 +46,8 @@ baidu.com
 bcebos.com
 bdstatic.com
 bdimg.com
+
+=== 哔哩哔哩
+bilibili.com
+hdslb.com
+bilivideo.com
