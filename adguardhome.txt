@@ -16,3 +16,13 @@
 [/tencent-cloud.com/]180.76.76.76
 [/tencentcs.cn/]180.76.76.76
 [/tencentcs.com/]180.76.76.76
+[/taobao.com/]180.76.76.76
+[/alicdn.com/]180.76.76.76
+[/tmall.com/]180.76.76.76
+[/aliyun.com/]180.76.76.76
+[/alibaba.com/]180.76.76.76
+[/alipay.com/]180.76.76.76
+[/alipayobjects.com/]180.76.76.76
+[/fliggy.com/]180.76.76.76
+[/alitrip.com/]180.76.76.76
+[/tbcdn.cn/]180.76.76.76
