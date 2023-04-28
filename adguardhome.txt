@@ -35,3 +35,7 @@
 [/bilibili.com/]180.76.76.76
 [/hdslb.com/]180.76.76.76
 [/bilivideo.com/]180.76.76.76
+[/apple.com/]180.76.76.76
+[/icloud.com/]180.76.76.76
+[/cdn-apple.com/]180.76.76.76
+[/mzstatic.com/]180.76.76.76
