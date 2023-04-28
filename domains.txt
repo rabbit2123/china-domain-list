@@ -51,3 +51,9 @@ bdimg.com
 bilibili.com
 hdslb.com
 bilivideo.com
+
+=== 苹果
+apple.com
+icloud.com
+cdn-apple.com
+mzstatic.com
