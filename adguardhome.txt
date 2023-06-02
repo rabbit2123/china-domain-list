@@ -39,3 +39,12 @@
 [/icloud.com/]180.76.76.76
 [/cdn-apple.com/]180.76.76.76
 [/mzstatic.com/]180.76.76.76
+[/douyin.com/]180.76.76.76
+[/byted-static.com/]180.76.76.76
+[/bytedance.com/]180.76.76.76
+[/byteimg.com/]180.76.76.76
+[/bytetos.com/]180.76.76.76
+[/douyinpic.com/]180.76.76.76
+[/douyinstatic.com/]180.76.76.76
+[/douyinvod.com/]180.76.76.76
+[/zijieapi.com/]180.76.76.76
