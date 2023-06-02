@@ -57,3 +57,14 @@ apple.com
 icloud.com
 cdn-apple.com
 mzstatic.com
+
+=== 抖音
+douyin.com
+byted-static.com
+bytedance.com
+byteimg.com
+bytetos.com
+douyinpic.com
+douyinstatic.com
+douyinvod.com
+zijieapi.com
